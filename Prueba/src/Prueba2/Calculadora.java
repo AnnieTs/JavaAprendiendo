@@ -1,5 +1,7 @@
 package Prueba2;
 
+//Private = sólo pueden ser utilizados en la misma clase = protected
+//Public = pueden ser utilizados en otras clases
 public class Calculadora {
 	private int n1;
 	private int n2;
