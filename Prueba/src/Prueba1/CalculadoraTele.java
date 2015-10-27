@@ -1,4 +1,4 @@
-
+package Prueba1;
 public class CalculadoraTele extends Calculadora {
 
 	public CalculadoraTele(int n1, int n2) {

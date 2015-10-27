@@ -1,3 +1,4 @@
+package Prueba1;
 public class Calculadora
 {
 	public int n1;

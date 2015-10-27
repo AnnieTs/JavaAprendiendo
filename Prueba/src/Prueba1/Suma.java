@@ -1,4 +1,4 @@
-
+package Prueba1;
 public class Suma {
 		public static void main(String  arg[]){
 			CalculadoraTele calculadora1 = new CalculadoraTele(2, 65);
